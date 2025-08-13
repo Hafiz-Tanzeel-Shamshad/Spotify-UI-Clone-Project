@@ -1,7 +1,14 @@
 # 🎵 Spotify Clone
 
+
 A simple and responsive **Spotify UI Clone** built using **HTML** and **CSS**.  
-This project replicates the look and feel of the Spotify web player with a clean, dark-themed UI and modern design.
+
+This project replicates the look and feel of the Spotify web player with a clean, dark-themed UI and modern design, featuring:
+
+- Sidebar navigation
+- Music cards
+- Playback controls
+- Responsive layout for different screen sizes
 
 ---
 
@@ -21,11 +28,18 @@ This project replicates the look and feel of the Spotify web player with a clean
 
 ---
 
+
+
 ## 🛠️ Technologies Used
 
-- **HTML5**
-- **CSS3** (Flexbox & Grid)
-- Google Fonts & Icons
+- **HTML5**: Semantic structure
+- **CSS3**:
+  - Flexbox for layout
+  - Custom properties
+  - Advanced selectors
+  - Media queries for responsiveness
+- **Font Awesome**: Icon integration
+- **Google Fonts**: Montserrat and Poppins fonts
 
 ---
 
@@ -38,15 +52,11 @@ spotify-clone/
 ├── assets/ # Images, icons, and other static files
 └── README.md # Project documentation
 ```
+
+
 ## 🖊️ Author
 **Hafiz Tanzeel Shamshad**
-
-## 💼 LinkedIn
 [LinkedIn Profile](https://www.linkedin.com/in/hafiz-tanzeel-shamshad-8680a8309/)
-
-## 🌐 Portfolio
-[Portfolio Website](https://github.com/Hafiz-Tanzeel-Shamshad)
-
 
 📜 License
 This project is licensed under the MIT License – feel free to use and modify it.
